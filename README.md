@@ -2,11 +2,11 @@
 
 <img src="/results/hamaml.png">
 
+Implementation for [Identifying Physical Laws of Hamiltonian Systems via Meta-Learning](https://arxiv.org/abs/2102.11544), accepted at ICLR 2021. 
+
 <p align="center">
 <img src="https://github.com/7tl7qns7ch/Identifying-Physical-Law/assets/39257402/54f7f80b-8cc9-49ef-9c17-2ca0aeeef646">
 </p>
-
-Implementation for [Identifying Physical Laws of Hamiltonian Systems via Meta-Learning](https://arxiv.org/abs/2102.11544), accepted at ICLR 2021. 
 
 ### Citation
 ```

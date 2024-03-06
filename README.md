@@ -3,7 +3,7 @@
 <img src="/results/hamaml.png">
 
 <p align="center">
-<img src="https://github.com/7tl7qns7ch/Identifying-Physical-Law/assets/39257402/533c67a1-1a19-4e7e-8e3d-3d126d7c4bfc">
+<img src="https://github.com/7tl7qns7ch/Identifying-Physical-Law/assets/39257402/54f7f80b-8cc9-49ef-9c17-2ca0aeeef646">
 </p>
 
 Implementation for [Identifying Physical Laws of Hamiltonian Systems via Meta-Learning](https://arxiv.org/abs/2102.11544), accepted at ICLR 2021. 
